@@ -8,6 +8,8 @@ public class Teamwork {
 		
 		//hello my friend
 		System.out.println("Hello my friend"); 
+		
+		System.out.println("Jakey Sawa sucks");
 	}
 
 }
