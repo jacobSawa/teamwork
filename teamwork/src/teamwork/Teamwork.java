@@ -3,7 +3,7 @@ package teamwork;
 public class Teamwork {
 
 	public static void main(String[] args) {
-		//hello jacob 
+		//hello jacobs cat
 		System.out.println("Hello Jacob");
 		
 		
@@ -11,6 +11,10 @@ public class Teamwork {
 		
 		System.out.println("Jakey Sawa sucks");
 		System.out.print("balls");
+		
+		for (int i = 0; i < 1000000000; i ++ ) {
+			System.out.println("Balls");
+		}
 	}
 
 }
